@@ -1,0 +1,2 @@
+Prefix plugins/ProcessDesc/example/
+Plugin ProcessDesc inputfile release9_60_unaligned.fasta outputfile information.txt
